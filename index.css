@@ -1,0 +1,30 @@
+body {
+  font-family: Montserrat;
+  float:center;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+pre, p {
+  text-align:center;
+  font-family: montserrat;
+  font-size: 20px;
+}
+img {
+  display: block;
+  margin:auto;
+}
+
+.center{
+  float:center;
+  text-align:center;
+  display: block;
+  margin:auto;
+}
+  #tiny {
+  width: 300px;
+  height: 300px;
+}
